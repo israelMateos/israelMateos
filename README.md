@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Israel</h1>
-<h3 align="center">An enthusiastic Computer Science student</h3>
-<h3 align="center">- 🔭 I’m currently studying and researching at <b>Universidad de Castilla-La Mancha</b>.</h3>
+<h3 align="center">🔭 I’m currently studying and researching at <b>Universidad de Castilla-La Mancha</b>.</h3>
 
 <h2 align="center">📫 Contact me</h3>
 <p align="center">
