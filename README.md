@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Israel</h1>
-<h3 align="center">🔭 AI/Computer Vision Research Associate @ VISILAB |Universidad de Castilla-La Mancha</h3>
+<h3 align="center">🔭 AI/Computer Vision Research Associate @ VISILAB | Universidad de Castilla-La Mancha</h3>
 
 <h2 align="center">📫 Contact me</h3>
 <p align="center">
@@ -15,9 +15,9 @@
 
 <h2 align="center">👨 About me</h3
 <ul>
-    <li>🎓 **AI Research Associate** at *Universidad de Castilla-La Mancha*</li>
-    <li>🔍 Focus: **Computer Vision, Deep Learning, Image Processing**</li>
-    <li>📝 Check out my latest research on **[Google Scholar](https://scholar.google.com/citations?user=c78cQTAAAAAJ)**</li>
+    <li>🎓 <b>AI Research Associate</b> at <b>Universidad de Castilla-La Mancha</b></li>
+    <li>🔍 Focus: <b>Computer Vision, Deep Learning, Image Processing</b></li>
+    <li>📝 Check out my latest research on <a href="https://scholar.google.com/citations?user=c78cQTAAAAAJ"><b>Google Scholar</b></a></li>
 </ul>
 
 ---
