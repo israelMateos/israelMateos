@@ -1,15 +1,24 @@
 <h1 align="center">Hi 👋, I'm Israel</h1>
-<h3 align="center">🔭 I’m currently studying and researching at <b>Universidad de Castilla-La Mancha</b>.</h3>
+<h3 align="center">🔭 AI/Computer Vision Researcher | Deep Learning | Universidad de Castilla-La Mancha</h3>
 
 <h2 align="center">📫 Contact me</h3>
 <p align="center">
     <a target="_blank" href="https://www.linkedin.com/in/israel-mateos-aparicio">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a target="_blank" href="mailto:israel.mateos@outlook.es">
+    <a target="_blank" href="mailto:israel.mateosaparici@uclm.es">
         <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
     </a>
 </p>
+
+---
+
+<h2 align="center">👨 About me</h3
+- 🎓 **AI Research Associate** at *Universidad de Castilla-La Mancha*  
+- 🔍 Focus: **Computer Vision, Deep Learning, Image Processing**  
+- 📝 Check out my latest research on **[Google Scholar](#https://scholar.google.com/citations?user=c78cQTAAAAAJ)**
+
+---
 
 <h2 align="center">🚀 Skills</h3
 
@@ -23,10 +32,11 @@
 <h3 align="left">⚡ ML/DL</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
+    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 </p>
 
 <h3 align="left">👩‍💻 Others</h3>
