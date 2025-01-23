@@ -17,7 +17,7 @@
 <ul>
     <li>🎓 **AI Research Associate** at *Universidad de Castilla-La Mancha*</li>
     <li>🔍 Focus: **Computer Vision, Deep Learning, Image Processing**</li>
-    <li>📝 Check out my latest research on **[Google Scholar](#https://scholar.google.com/citations?user=c78cQTAAAAAJ)**</li>
+    <li>📝 Check out my latest research on **[Google Scholar](https://scholar.google.com/citations?user=c78cQTAAAAAJ)**</li>
 </ul>
 
 ---
