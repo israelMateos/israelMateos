@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Israel</h1>
-<h3 align="center">🔭 AI/Computer Vision Research Associate @ VISILAB | Universidad de Castilla-La Mancha</h3>
+<h3 align="center">🔭 AI/Computer Vision Research Assistant @ VISILAB | Universidad de Castilla-La Mancha</h3>
 
 <h2 align="center">📫 Contact me</h3>
 <p align="center">
